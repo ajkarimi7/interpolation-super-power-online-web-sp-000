@@ -8,4 +8,4 @@ end
 
 color = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
-return display_rainbow
+display_rainbow
