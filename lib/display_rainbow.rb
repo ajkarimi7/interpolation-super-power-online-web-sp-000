@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
 
-def display_rainbow(colior)
+def display_rainbow(color)
   
   puts ""
   
