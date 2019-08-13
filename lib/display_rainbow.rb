@@ -2,6 +2,6 @@
 
 def display_rainbow(color)
   
-  puts ""
+  puts "R: [], O: [], Y: [], G: [], B: [], I: [], V: []"
   
 end 
