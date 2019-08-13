@@ -10,4 +10,4 @@ def display_rainbow(color)
   
 end 
 
-display_rainbow
+return display_rainbow
